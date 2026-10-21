@@ -6,7 +6,7 @@ const countryField = {
   key: 'country',
   label: 'Country',
   helpText:
-    'Country slug, or slugs separated by commas, for example `united-kingdom,ireland`. Leave empty for all countries. [See the countries](https://selltostate.com/countries/).',
+    'Country slug, or slugs separated by commas, for example `united-kingdom,ireland`. Leave empty for all countries. [See the countries](https://www.selltostate.com/countries/).',
 };
 
 /** GET /search and return the hits. Empty values are left out. */

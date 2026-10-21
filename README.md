@@ -1,6 +1,6 @@
 # Sell to State for Zapier
 
-Zapier integration for [Sell to State](https://selltostate.com/?utm_source=github&utm_medium=referral&utm_campaign=sts-zapier): government tenders and contract awards from official procurement sources in more than 60 countries.
+Zapier integration for [Sell to State](https://www.selltostate.com/?utm_source=github&utm_medium=referral&utm_campaign=sts-zapier): government tenders and contract awards from official procurement sources in more than 60 countries.
 
 | Type | Key | What it does |
 |---|---|---|
