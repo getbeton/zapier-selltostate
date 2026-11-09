@@ -1,7 +1,7 @@
 {
   "name": "zapier-selltostate",
   "version": "0.1.0",
-  "description": "Zapier integration for Sell to State: government tenders, buyers and suppliers in 60+ countries.",
+  "description": "Zapier integration for Sell to State: government tenders, buyers and suppliers in 70+ countries.",
   "main": "index.js",
   "license": "MIT",
   "repository": "https://github.com/getbeton/zapier-selltostate",
